@@ -8,7 +8,7 @@ This project utilizes **CrewAI** to analyze a blood test report, search for rele
 - **Health Recommendations**: Offers health advice based on the research findings.
 
 ## Prerequisites
-- Python 3.8+
+- Python 3.10+
 - API keys for SerperDev and OpenAI (Ollama model)
 
 ## Installation
